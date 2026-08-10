@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-kotorye-realno-platyat.github.io
+Sitemap: https://kazino-kotorye-realno-platyat.github.io/sitemap.xml
